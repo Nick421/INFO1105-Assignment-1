@@ -1,4 +1,4 @@
-# INFO1105-Assignment-2
+# INFO1105-Assignment-1
 A mapping of submission and assignments using Tree data structure 
 
 # DO NOT PLAGIARISE! UNIVERSITY OF SYDNEY TAKES PLAGIARISM SERIOUSLY!!
